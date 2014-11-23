@@ -26,6 +26,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/start"
+                android:fontFamily="Nazanin"
                 android:background="@color/cabaret" />
 
         </TableRow>
@@ -41,7 +42,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/instruction"
-                android:background="@color/cabaret" />
+                android:fontFamily="Nazanin"
+                android:background="@color/jaffa" />
             
         </TableRow>
 
@@ -55,7 +57,8 @@
                 android:id="@+id/about"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@color/cabaret"
+                android:background="@color/shamrock"
+                android:fontFamily="Nazanin"
                 android:text="@string/about" />
 
         </TableRow>
@@ -71,7 +74,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/out"
-                android:background="@color/cabaret" />
+                android:fontFamily="Nazanin"
+                android:background="@color/plum" />
 
         </TableRow>
 

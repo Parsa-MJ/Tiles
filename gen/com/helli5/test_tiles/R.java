@@ -32,7 +32,8 @@ public final class R {
     }
     public static final class drawable {
         public static final int btn=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
+        public static final int home=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
     }
     public static final class id {
         public static final int Play=0x7f0a0022;
@@ -63,7 +64,7 @@ public final class R {
         public static final int b53=0x7f0a001c;
         public static final int b54=0x7f0a001d;
         public static final int b55=0x7f0a001e;
-        public static final int button1=0x7f0a0027;
+        public static final int imageButton1=0x7f0a0027;
         public static final int ins=0x7f0a0023;
         public static final int leave=0x7f0a0025;
         public static final int progressBar1=0x7f0a0021;
@@ -88,6 +89,7 @@ public final class R {
         public static final int manual=0x7f090002;
     }
     public static final class string {
+        public static final int Readme=0x7f07000c;
         public static final int about=0x7f07000a;
         public static final int action_settings=0x7f070002;
         public static final int app_name=0x7f070000;
