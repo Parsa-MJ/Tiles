@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test_Tiles</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="yes">بله</string>
+    <string name="no">نه</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="start">شروع بازی</string>
+    <string name="instruction">راهنما</string>
+    <string name="out">خروج</string>
+    <string name="about">درباره ما</string>
+    <string name="title_activity_manual">راهنما</string>
+
+</resources>
